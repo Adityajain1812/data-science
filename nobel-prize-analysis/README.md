@@ -22,7 +22,13 @@ This project involves a comprehensive analysis of Nobel Prize data to uncover pa
 - **Python** (for data manipulation and analysis)
 - **Pandas**, **NumPy** (for data wrangling)
 - **Matplotlib**, **Seaborn**, **Plotly** (for visualization)
-- **Jupyter Notebook** or **Google Colab**
+- **Jupyter Notebook** or 
+
+---
+
+## 📦 Dataset
+
+- Nobel Prize data from  public datasets (e.g., **Kaggle**)
 
 ---
 
@@ -31,7 +37,3 @@ This project involves a comprehensive analysis of Nobel Prize data to uncover pa
 The project provides a clear understanding of the Nobel Prize distribution across dimensions like time, geography, gender, and discipline. It can serve as a **data storytelling piece** or **exploratory data analysis (EDA)** case study, useful for both learning and presentation purposes.
 
 ---
-
-## 📦 Dataset
-
-- Nobel Prize data from official APIs or public datasets (e.g., **Kaggle**, **Nobel Prize API**)
