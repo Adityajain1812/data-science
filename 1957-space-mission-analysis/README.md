@@ -6,6 +6,13 @@ The launch of *Sputnik-1* in **1957** by the Soviet Union marked the beginning o
 
 The dataset contains information about **organisations, launch locations, mission dates, rocket status, costs, and outcomes**. By analyzing these attributes, the project provides insights into the **evolution of space missions**, the **competition between the USA and the Soviet Union**, and the **long-term patterns in global space exploration**.  
 
+## 🎯 Objectives  
+
+- Examine **historical trends** in space missions starting from 1957.  
+- Compare contributions of the **USA and the Soviet Union** during the space race.  
+- Analyze **mission outcomes** (success, failure, partial success).  
+- Study the role of **launch sites, rocket activity, and costs** in shaping mission history.  
+
 ## 📊 Analytical Approach  
 
 - **Data Cleaning & Preprocessing**  
